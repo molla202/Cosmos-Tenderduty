@@ -11,6 +11,8 @@
 
 💬 Sorularınız için yukarıdaki adreslerden ulaşabilirsiniz.
 
+#### 💬 Ne işe yarar ? Güncel olarak cosmos projelerinizde node bilgilerinizi destaylı görmeye ve api aracılığı ile uyarı almanızı sağlayan bir sistemdir.
+
 ### 🚧Update ve gereklilikler
 ```
 sudo apt update && sudo apt upgrade -y
